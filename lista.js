@@ -1,0 +1,2 @@
+const lista = 23
+const nomes = ['Ana Carolina','Ana Heloise','Ana Luiza','Andre','Beatriz','Bhianca','Cauã','Eliã','Enzo','Giovanna','Henrique Duarte','Henrique Emilio','Iago','Iasmin','Isadora','Jhenyer','João Francisco','João Henrique','Lorenzo','Luiz Felipe','']
